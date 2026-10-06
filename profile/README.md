@@ -14,8 +14,6 @@ Our learners develop production skills by building real software, reviewing one 
 
 - [Zone01 Athens](https://www.zone01.gr/)
 - [Curriculum](https://www.zone01.gr/curriculum)
-- [Specializations](https://github.com/zone01athens/specializations)
 - [Apply](https://www.zone01.gr/register)
 
 Interested in working with our talent and community? [Partner with Zone01 Athens](https://zone01.gr/en/partners/).
-
